@@ -1,7 +1,7 @@
 
 # Pushkar Raj
-[![Gmail Badge](https://img.shields.io/badge/vanisingh6612@gmail.com-30302f?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:theunfunnygeek@gmail.com)
-[![Github Badge](https://img.shields.io/badge/vanisingh-30302f?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/pushkarrajlife)
+[![Gmail Badge](https://img.shields.io/badge/theunfunnygeek@gmail.com-30302f?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:theunfunnygeek@gmail.com)
+[![Github Badge](https://img.shields.io/badge/pushkarrajlife-30302f?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/pushkarrajlife)
 ## Hi there 👋,           
 ##### I'm Pushkar Raj, currently a Computer Science undergrad from DGI, GrNoida. a aspiring software engineer with a love for coding and creating meaningful projects.If not working, you can find me eating, sleeping, lifting or listening to music :)
 
@@ -12,7 +12,6 @@
 - ⚡ Fun fact: I ❤️ Lifting 🤸.
 - 📫 How to reach me: mail me at [theunfunnygeek@gmail.com](mailto:theunfunnygeek@gmail.com)
 ---
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=-pushkarrajlife&show_icons=true&theme=merko)   ![My Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarrajlife&layout=compact&hide=html&theme=merko)
 
 ### Languages and Tools:
 
