@@ -5,6 +5,11 @@
 ## Hi there 👋,           
 ##### I'm Pushkar Raj, currently a Computer Science undergrad from DGI, GrNoida. a aspiring software engineer with a love for coding and creating meaningful projects.If not working, you can find me eating, sleeping, lifting or listening to music :)
 
+
+<!--  HI PIKACHU  -->
+<img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/d377c4aa-e247-422c-8b0f-53145acd7705" align="right" width="15%" alt="pikachu-hi">
+
+
 ## 🧐 About
 - 🏄‍ Software Developer
 - 🤝 I am eager to dive in both tech and non-tech roles
