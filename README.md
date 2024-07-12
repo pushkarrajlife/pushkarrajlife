@@ -2,14 +2,23 @@
 # Pushkar Raj
 [![Gmail Badge](https://img.shields.io/badge/theunfunnygeek@gmail.com-30302f?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:theunfunnygeek@gmail.com)
 [![Github Badge](https://img.shields.io/badge/pushkarrajlife-30302f?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/pushkarrajlife)
+
+<!--  DIVIDER  -->
+<img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+
 ## Hi there 👋,           
 ##### I'm Pushkar Raj, currently a Computer Science undergrad from DGI, GrNoida. a aspiring software engineer with a love for coding and creating meaningful projects.If not working, you can find me eating, sleeping, lifting or listening to music :)
 
+<!--  DIVIDER  -->
+<img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 ## 🧐 About
 
 <!--  HI PIKACHU  -->
 <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/d377c4aa-e247-422c-8b0f-53145acd7705" align="right" width="15%" alt="pikachu-hi">
+
+<!--  DIVIDER  -->
+<img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 
 - 🏄‍ Software Developer
@@ -18,6 +27,9 @@
 - ⚡ Fun fact: I ❤️ Lifting 🤸.
 - 📫 How to reach me: mail me at [theunfunnygeek@gmail.com](mailto:theunfunnygeek@gmail.com)
 ---
+
+<!--  DIVIDER  -->
+<img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
