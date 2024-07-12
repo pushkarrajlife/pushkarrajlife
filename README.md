@@ -8,8 +8,9 @@
 
 ## 🧐 About
 
-<!--  HI PIKACHU  -->
-<img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/d377c4aa-e247-422c-8b0f-53145acd7705" align="right" width="15%" alt="pikachu-hi">
+<!--  HI BEN 10  -->
+<img src="https://example.com/ben10-hi.png" align="right" width="15%" alt="ben10-hi">
+
 
 - 🏄‍ Software Developer
 - 🤝 I am eager to dive in both tech and non-tech roles
