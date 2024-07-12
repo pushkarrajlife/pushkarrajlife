@@ -34,12 +34,6 @@ I'm Pushkar Raj, currently a Computer Science undergrad from DGI, GrNoida. a asp
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
 <br/>
-<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
-<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
-<br/>
-
-
 <!--  DIVIDER  -->
 <img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
