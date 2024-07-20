@@ -1,6 +1,6 @@
 
 # Pushkar Raj    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
-
+[![Linkedin Badge](https://img.shields.io/badge/pushkarraj-30302f?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pushkar-raj-8b322631a/)
 [![Gmail Badge](https://img.shields.io/badge/theunfunnygeek@gmail.com-30302f?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:theunfunnygeek@gmail.com)
 [![Github Badge](https://img.shields.io/badge/pushkarrajlife-30302f?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/pushkarrajlife)
 <!--  DIVIDER  -->
