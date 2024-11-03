@@ -1,7 +1,7 @@
 
 # Pushkar Raj    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
 [![Linkedin Badge](https://img.shields.io/badge/pushkarraj-30302f?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pushkar-raj-8b322631a/)
-[![Gmail Badge](https://img.shields.io/badge/theunfunnygeek@gmail.com-30302f?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:theunfunnygeek@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/theunfunnygeek@gmail.com-30302f?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:pushkarrajito@gmail.com)
 [![Github Badge](https://img.shields.io/badge/pushkarrajlife-30302f?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/pushkarrajlife)
 <!--  DIVIDER  -->
 <img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
@@ -17,7 +17,7 @@ I'm Pushkar Raj, currently a Computer Science undergrad from DGI, GrNoida. a asp
 - 🤝 I am eager to dive in both tech and non-tech roles
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - ⚡ Fun fact: I ❤️ Lifting 🤸.
-- 📫 How to reach me: mail me at [theunfunnygeek@gmail.com](mailto:theunfunnygeek@gmail.com)
+- 📫 How to reach me: mail me at [pushkarrajito@gmail.com](mailto:pushkarrajito@gmail.com)
 <!--  DIVIDER  -->
 <img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
